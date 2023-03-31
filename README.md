@@ -12,3 +12,6 @@ after runing last command you will be asked to give username FOR SUPER USER
 and then type "y"
 and give password for your user
 now, open your admin page in server and try to login now
+for "About us" page contact me on :
+ph. no. :- 8982493551
+e-mail:- sharma.himanshu6600@gmail.com
